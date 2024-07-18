@@ -1,4 +1,4 @@
-go 1.21.6
+go 1.22.1
 
 use (
 	./01helloWorld
@@ -20,4 +20,5 @@ use (
 	./17files
 	./18webRequests
 	./19urls
+	./20webReqVerbs
 )
