@@ -1,4 +1,4 @@
-go 1.22.1
+go 1.22.5
 
 use (
 	./01helloWorld
@@ -21,4 +21,6 @@ use (
 	./18webRequests
 	./19urls
 	./20webReqVerbs
+	./22myModules
+	./23buildApi
 )
