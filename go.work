@@ -23,4 +23,7 @@ use (
 	./20webReqVerbs
 	./22myModules
 	./23buildApi
+	./24mongoApi
+	./25goRoutines
+	./26waitAndAwaitGroups
 )
