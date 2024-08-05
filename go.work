@@ -26,4 +26,5 @@ use (
 	./24mongoApi
 	./25goRoutines
 	./26waitAndAwaitGroups
+	./27channels
 )
